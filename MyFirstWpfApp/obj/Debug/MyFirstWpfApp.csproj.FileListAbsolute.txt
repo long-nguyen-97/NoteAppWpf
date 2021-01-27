@@ -1,0 +1,16 @@
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\bin\Debug\MyFirstWpfApp.exe.config
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\bin\Debug\MyFirstWpfApp.exe
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\bin\Debug\MyFirstWpfApp.pdb
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\MyFirstWpfApp.csprojAssemblyReference.cache
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\App.g.cs
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\MyFirstWpfApp_MarkupCompile.cache
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\MyFirstWpfApp_MarkupCompile.lref
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\MainWindow.baml
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\MyFirstWpfApp.g.resources
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\MyFirstWpfApp.Properties.Resources.resources
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\MyFirstWpfApp.csproj.GenerateResource.cache
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\MyFirstWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\MyFirstWpfApp.exe
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\MyFirstWpfApp.pdb
+C:\Users\Long Nguyen\source\repos\MyFirstWpfApp\MyFirstWpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
